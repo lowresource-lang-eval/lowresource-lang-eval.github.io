@@ -5,4 +5,4 @@ ref: index
 lang: ru
 ---
 
-Вдохновлено ["PlagEvalRus"](https://plagevalrus.github.io)
+Вдохновлено [PlagEvalRus](https://plagevalrus.github.io)
