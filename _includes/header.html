@@ -3,7 +3,7 @@
     <div class="header-wrapper">
 
         <nav class="site-nav">
-            <ul>
+             <a class="site-title" href="{{ site.baseurl }}/{{ site.index[page.lang] }}">{{ site.title[page.lang] }}</a>
                 <li class="lang-trigger">
                 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
                {% for page in pages %}
@@ -11,7 +11,6 @@
 			   {{ page.lang }}</a> 
 			   {% endfor %}
                 </li>
-            </ul>
         </nav>
     </div>
 </header>
