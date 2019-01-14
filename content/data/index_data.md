@@ -5,8 +5,7 @@ ref: index
 lang: ru
 ---
 
-#Описание схемы разметки: https://universaldependencies.org/format.html + дополнения (будет описано отдельно)
+### Описание схемы разметки: [Universal Dependencies](https://universaldependencies.org/format.html) + дополнения (будет описано отдельно)
 
 |Язык|Коллектив|Ссылка на корпус|
-|Эвенкийский|http://siberia-lang.srcc.msu.ru||
 to be announced...
