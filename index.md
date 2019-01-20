@@ -11,6 +11,6 @@ lang: ru
 
 
 ---
-Вдохновлено [PlagEvalRus](https://plagevalrus.github.io)
+<span color="grey">Вдохновлено [PlagEvalRus](https://plagevalrus.github.io)</span>
 
 
