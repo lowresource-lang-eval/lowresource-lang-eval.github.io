@@ -6,8 +6,8 @@ contact_group:  https://groups.google.com/forum/#!forum/lowresource-eval-2019
 index:
   en: enindex.html
   ru: index.html
-markdown: redcarpet
-redcarpet:
+markdown: kramdown
+kramdown:
   extensions:
     - no_intra_emphasis
     - fenced_code_blocks
