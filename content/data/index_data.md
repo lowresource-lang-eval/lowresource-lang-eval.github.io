@@ -5,12 +5,15 @@ ref: index
 lang: ru
 ---
 
-### Описание схемы разметки: [Universal Dependencies](https://universaldependencies.org/format.html) + дополнения (будет описано отдельно)
 
-## Размеченные данные
-| Язык        | Коллектив           | Ссылка на данные  |
+# Данные с морфологической разметкой
+## Описание схемы разметки: [Universal Dependencies](https://universaldependencies.org/format.html)
+| Язык        | Ссылка на массив           | Описание  |
+|-------|--------|---------|
+| эвенкийский | [evk.train.ud_partial_20190120](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evk.train.ud) (1 Mb) | Данные http://siberian-lang.srcc.msu.ru/. Внимание: орфография приведена к МФА |
 
-## Неразмеченные данные
+
+# Неразмеченные данные
 Мы публикуем неразмеченные данные, которые могут пригодиться участникам для улучшения алгоритмов
 
 
