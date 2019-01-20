@@ -6,7 +6,7 @@ lang: ru
 ---
 
 
-## Данные с морфологической разметкой <span color="red">Предварительная версия!!!</color>
+<span color="red">Предварительная версия!</color>## Данные с морфологической разметкой
 # Описание схемы разметки: [Universal Dependencies](https://universaldependencies.org/format.html)
 
 
