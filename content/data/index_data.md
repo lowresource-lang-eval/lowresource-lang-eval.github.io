@@ -6,13 +6,13 @@ lang: ru
 ---
 
 
-## Данные с морфологической разметкой
+## Данные с морфологической разметкой <span color="red">Предварительная версия!!!</color>
 # Описание схемы разметки: [Universal Dependencies](https://universaldependencies.org/format.html)
 
 
 | Язык        | Ссылка на массив           | Описание  |
 |-------|--------|---------|
-| эвенкийский      | <span color="red">Предварительная версия!!!</color> [evk.train.ud_partial_20190120](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evk.train.ud?raw=true) (1 Mb) | Материалы газеты «Эвенкийская жизнь» 2002—2010. Внимание: используется орфография МФА |
+| эвенкийский      | [evk.train.ud_partial_20190120](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evk.train.ud?raw=true) (1 Mb) | Материалы газеты «Эвенкийская жизнь» 2002—2010. Внимание: используется орфография МФА |
 
 
 ## Неразмеченные данные
