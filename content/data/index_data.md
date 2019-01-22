@@ -12,7 +12,7 @@ lang: ru
 
 | Язык        | Ссылка на массив           | Описание  |
 |-------|--------|---------|
-| эвенкийский      | Предварительная версия! [evk.train.ud_partial_20190120](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evk.train.ud?raw=true) (1 Mb) | Материалы газеты «Эвенкийская жизнь» 2002—2010. Внимание: используется орфография МФА |
+| эвенкийский      | Предварительная версия! [evk.train.ud_partial_20190122](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evk.train.ud?raw=true) (1 Mb) | Материалы газеты «Эвенкийская жизнь» 2002—2010. Внимание: используется орфография МФА |
 
 
 ## Неразмеченные данные
