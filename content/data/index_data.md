@@ -4,6 +4,8 @@ title: Данные
 ref: index
 lang: ru
 ---
+* Оглавление
+{:toc}
 
 
 ## Данные с морфологической разметкой
@@ -12,7 +14,15 @@ lang: ru
 
 | Язык        | Ссылка на массив           | Описание  |
 |-------|--------|---------|
-| эвенкийский      | Предварительная версия! [evn.train.ud_partial_20190123](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evk.train.ud?raw=true) (1 Mb) | Материалы газеты «Эвенкийская жизнь» 2002—2010. Внимание: используется орфография МФА |
+| эвенкийский      | Предварительная версия! [evn.train.ud_20190123](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evn.train.ud?raw=true) (1 Mb) | Материалы [сайта «Малые языки Сибири»](http://siberian-lang.srcc.msu.ru) Внимание: используется МФА |
+
+## Данные с морфемной сегментацией
+# Описание схемы разметки: [словоформа][табуляция][пары морфема_тег, разделенные символом «пробел»]
+
+
+| Язык        | Ссылка на массив           | Описание  |
+|-------|--------|---------|
+| эвенкийский      | Предварительная версия! [evn.train.morph_20190123](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evn.train.morph?raw=true) (1 Mb) | Материалы [сайта «Малые языки Сибири»](http://siberian-lang.srcc.msu.ru) Внимание: используется МФА |
 
 
 ## Неразмеченные данные
