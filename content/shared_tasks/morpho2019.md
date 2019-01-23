@@ -29,7 +29,7 @@ lang: ru
 #### Входные данные
 Предложения в формате [Universal Dependencies](https://universaldependencies.org/format.html), разделенные символом новой строки, с прочерками во всех столбцах, кроме FORM. Первые три символа в имени файла — [код языка по Ethnologue](https://www.ethnologue.com/browse/codes).
 
-Пример: файл evk.test.ud
+Пример: файл evn.test.ud
 
 
     _	nu	_	_	_	_	_	_	_	_
@@ -75,9 +75,9 @@ lang: ru
 
 ### 2. Морфемная сегментация
 Участникам предлагается разделить словоформу на морфемы. Оценивается качество деления на морфемы и отдельно приписывание тега морфеме.
-#### Входные данные:
+#### Входные данные
 Список словоформ, составляющих предложение. Каждая словоформа приведена на отдельной строке. Предложения разделены символом новой строки.  Первые три символа в имени файла — [код языка по Ethnologue](https://www.ethnologue.com/browse/codes).
-Пример: файл evk.test.morph
+Пример: файл evn.test.morph
 
     nu
     iduka
@@ -116,7 +116,7 @@ lang: ru
 
 #### Входные данные
 На каждой строке файла указаны через знак табуляции: лемма, UPOS (часть речи, см. пример в [размеченных данных для морфоанализа](../data/index_data.html)), FEATS (морфологические свойства, см. пример в [размеченных данных для морфоанализа](../data/index_data.html)). Первые три символа в имени файла — [код языка по Ethnologue](https://www.ethnologue.com/browse/codes).Порядок словоформ в файле случаен.
-Пример: файл evk.test.synt
+Пример: файл evn.test.synt
 
     baldi	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
     ďu	NOUN	Case=Nom|Clusivity=Ex|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=1
