@@ -1,3 +1,6 @@
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 ---
 layout: page
 title: Оценка морфологических анализаторов
@@ -24,33 +27,56 @@ lang: ru
 Все файлы имеют кодировку UTF-8 (без маркера последовательности байтов).
 
 *Входящие данные*: предложения в формате [Universal Dependencies](https://universaldependencies.org/format.html), разделенные символом новой строки, с прочерками во всех столбцах, кроме ID, FORM. Первые три символа в имени файла — [код языка по Ethnologue](https://www.ethnologue.com/browse/codes).
+
 Пример: файл evk.test.ud
 >1	nu	_	_	_	_	_	_	_	_
+
 >2	iduka	_	_	_	_	_	_	_	_
+
 >3	baldit͡ʃaːw	_	_	_	_	_	_	_	_
+
 >5	bi	_	_	_	_	_	_	_	_
+
 >6	mohaduː	_	_	_	_	_	_	_	_
+
 >7	aha	_	_	_	_	_	_	_	_
+
+
 >
 >1	ďuwun	_	_	_	_	_	_	_	_
+
 >2	həgdiŋə	_	_	_	_	_	_	_	_
+
 >3	bit͡ʃoːn	_	_	_	_	_	_	_	_
+
 
 
 Пример:
 *Результат* должен быть предоставлен участником в формате, аналогичном формату [размеченных данных](../data/index_data.html). В файле должны быть заполнены столбцы ID, FORM, LEMMA, UPOS, FEATS. 
+
 >1	nu	nu	INTJ	_	_	_	_	_	_
+
 >2-3	iduka	_	_	_	_	_	_	_	_
+
 >2	idu	idu	ADV	_	_	_	_	_	_
+
 >3	ka	ka	PART	_	_	_	_	_	_
+
 >4	baldit͡ʃaːw	baldi	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
+
 >5	bi	bi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_
+
 >6	mohaduː	moha	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+
 >7	aha	aha	INTJ	_	_	_	_	_	_
+
 >
 >1	ďuwun	ďu	NOUN	_	Case=Nom|Clusivity=Ex|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=1	_	_	_	_
+
 >2	həgdiŋə	həgdiŋə	ADJ	_	_	_	_	_	_
+
 >3	bit͡ʃoːn	bi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+
 
 
 *Метрики*
