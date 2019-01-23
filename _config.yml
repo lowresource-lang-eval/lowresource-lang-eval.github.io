@@ -8,7 +8,6 @@ index:
   ru: index.html
 markdown: kramdown
 kramdown:
-  toc_levels: 2..2
   extensions:
     - no_intra_emphasis
     - fenced_code_blocks
