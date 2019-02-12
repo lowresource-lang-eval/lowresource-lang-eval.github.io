@@ -24,7 +24,7 @@ lang: ru
 | Язык        | Ссылка на массив           | Описание  |
 |-------|--------|---------|
 | эвенкийский      | [evn.train.morph_20190123](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evn.train.morph?raw=true) | Материалы [сайта «Малые языки Сибири»](http://siberian-lang.srcc.msu.ru) Внимание: используется МФА |
-| селькупский      | [sel.train.morph_20190213](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/sel.train.morph?raw=true) | Материалы [корпуса INEL](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/spoken-corpus:selkup-0.1) Конверсия в формат соревнования выполнена нами |
+| селькупский      | [sel.train.morph_20190213](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/sel.train.morph?raw=true) | Материалы [корпуса INEL](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/spoken-corpus:selkup-0.1)<sup id="fn1"><a href="#селькупский-язык">1</a></sup Конверсия в формат соревнования выполнена нами |
 
 ## Неразмеченные данные
 Мы публикуем неразмеченные данные, которые могут пригодиться участникам для улучшения алгоритмов
@@ -40,7 +40,7 @@ lang: ru
 
 
 ## Ссылки на источники
-### Селькупский язык
+* 1. Селькупский язык
 
     Brykina, Maria; Orlova, Svetlana; Wagner-Nagy, Beáta. 2018.
     INEL Selkup Corpus. Version 0.1. Publication date 2018-12-31.
