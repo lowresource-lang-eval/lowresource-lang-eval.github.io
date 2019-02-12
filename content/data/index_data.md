@@ -40,9 +40,13 @@ lang: ru
 
 
 ## Ссылки на источники
-### Селькупский язык: 
+### Селькупский язык
 
-    Brykina, Maria; Orlova, Svetlana; Wagner-Nagy, Beáta. 2018. INEL Selkup Corpus. Version 0.1. Publication date 2018-12-31. Archived in Hamburger Zentrum für Sprachkorpora. http://hdl.handle.net/11022/0000-0007-CAE5-3. In: Wagner-Nagy, Beáta; Arkhipov, Alexandre; Ferger, Anne; Jettka, Daniel; Lehmberg, Timm (eds.). 2018. The INEL corpora of indigenous Northern Eurasian languages.
+    Brykina, Maria; Orlova, Svetlana; Wagner-Nagy, Beáta. 2018.
+    INEL Selkup Corpus. Version 0.1. Publication date 2018-12-31.
+    Archived in Hamburger Zentrum für Sprachkorpora http://hdl.handle.net/11022/0000-0007-CAE5-3.
+    In: Wagner-Nagy, Beáta; Arkhipov, Alexandre; Ferger, Anne; Jettka, Daniel; Lehmberg, Timm (eds.). 2018.
+    The INEL corpora of indigenous Northern Eurasian languages.
 
-
-
+## Лицензия
+Данные, за исключением специально отмеченных, распространяются по лицензии [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
