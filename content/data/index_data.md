@@ -15,7 +15,7 @@ lang: ru
 | Язык        | Ссылка на массив           | Описание  |
 |-------|--------|---------|
 | эвенкийский      | [evn.train.ud_20190123](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evn.train.ud?raw=true) | Материалы [сайта «Малые языки Сибири»](http://siberian-lang.srcc.msu.ru) Внимание: используется МФА |
-| селькупский      | [sel.train.ud_20190213](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/sel.train.ud?raw=true) | Материалы [корпуса INEL](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/spoken-corpus:selkup-0.1) Конверсия в формат соревнования выполнена нами |
+| селькупский      | [sel.train.ud_20190213](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/sel.train.ud?raw=true) | Материалы [корпуса INEL]<sup id="fn1">1<a href="#селькупский-язык"></a></sup>(https://corpora.uni-hamburg.de/hzsk/de/islandora/object/spoken-corpus:selkup-0.1) Конверсия в формат соревнования выполнена нами |
 
 ## Данные с морфемной сегментацией
 * Описание схемы разметки: [словоформа][табуляция][пары морфема_тег, разделенные символом «пробел»]
@@ -41,4 +41,8 @@ lang: ru
 
 ## Ссылки на источники
 ### Селькупский язык: 
+
+    Brykina, Maria; Orlova, Svetlana; Wagner-Nagy, Beáta. 2018. INEL Selkup Corpus. Version 0.1. Publication date 2018-12-31. Archived in Hamburger Zentrum für Sprachkorpora. http://hdl.handle.net/11022/0000-0007-CAE5-3. In: Wagner-Nagy, Beáta; Arkhipov, Alexandre; Ferger, Anne; Jettka, Daniel; Lehmberg, Timm (eds.). 2018. The INEL corpora of indigenous Northern Eurasian languages.
+
+
 
