@@ -15,7 +15,7 @@ lang: ru
 | Язык        | Ссылка на массив           | Описание  |
 |-------|--------|---------|
 | эвенкийский      | [evn.train.ud_20190123](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evn.train.ud?raw=true) | Материалы [сайта «Малые языки Сибири»](http://siberian-lang.srcc.msu.ru) Внимание: используется МФА |
-| селькупский      | [sel.train.ud_20190213](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/sel.train.ud?raw=true) | Материалы [корпуса INEL](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/spoken-corpus:selkup-0.1)<sup id="fn1">1<a href="#селькупский-язык"></a></sup> Конверсия в формат соревнования выполнена нами |
+| селькупский      | [sel.train.ud_20190213](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/sel.train.ud?raw=true) | Материалы [корпуса INEL](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/spoken-corpus:selkup-0.1)<sup id="fn1"><a href="#селькупский-язык">1</a></sup> Конверсия в формат соревнования выполнена нами |
 
 ## Данные с морфемной сегментацией
 * Описание схемы разметки: [словоформа][табуляция][пары морфема_тег, разделенные символом «пробел»]
