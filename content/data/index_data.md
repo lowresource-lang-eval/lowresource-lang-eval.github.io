@@ -17,6 +17,10 @@ lang: ru
 | эвенкийский      | [evn.train.ud_20190123](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evn.train.ud?raw=true) | Материалы [сайта «Малые языки Сибири»](http://siberian-lang.srcc.msu.ru) Внимание: используется МФА |
 | селькупский      | [sel.train.ud_20190213](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/sel.train.ud?raw=true) | Материалы [корпуса INEL](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/spoken-corpus:selkup-0.1)<sup id="fn1"><a href="#1-селькупский-язык">1</a></sup> Конверсия в формат соревнования выполнена нами |
 | вепсский      | [vep.train.ud_20190216](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/vep.train.ud?raw=true) | Материалы [сайта «Открытый корпус вепсского и карельского языков»](http://dictorpus.krc.karelia.ru/ru)<sup id="fn1"><a href="#2-вепсский-и-карельский-языки">2</a></sup>|
+| карельский (собственно карельское наречие)      | [krl.train.ud_20190216](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/krl.train.ud?raw=true) | Материалы [сайта «Открытый корпус вепсского и карельского языков»](http://dictorpus.krc.karelia.ru/ru)<sup id="fn1"><a href="#2-вепсский-и-карельский-языки">2</a></sup>|
+| карельский (ливвиковское наречие)      | [olo.train.ud_20190216](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/olo.train.ud?raw=true) | Материалы [сайта «Открытый корпус вепсского и карельского языков»](http://dictorpus.krc.karelia.ru/ru)<sup id="fn1"><a href="#2-вепсский-и-карельский-языки">2</a></sup>|
+| карельский (людиковское наречие)      | [lud.train.ud_20190216](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/lud.train.ud?raw=true) | Материалы [сайта «Открытый корпус вепсского и карельского языков»](http://dictorpus.krc.karelia.ru/ru)<sup id="fn1"><a href="#2-вепсский-и-карельский-языки">2</a></sup>|
+
 
 ## Данные с морфемной сегментацией
 * Описание схемы разметки: [словоформа][табуляция][пары морфема_тег, разделенные символом «пробел»]
