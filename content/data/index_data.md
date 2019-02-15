@@ -16,6 +16,7 @@ lang: ru
 |-------|--------|---------|
 | эвенкийский      | [evn.train.ud_20190123](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evn.train.ud?raw=true) | Материалы [сайта «Малые языки Сибири»](http://siberian-lang.srcc.msu.ru) Внимание: используется МФА |
 | селькупский      | [sel.train.ud_20190213](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/sel.train.ud?raw=true) | Материалы [корпуса INEL](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/spoken-corpus:selkup-0.1)<sup id="fn1"><a href="#1-селькупский-язык">1</a></sup> Конверсия в формат соревнования выполнена нами |
+| вепсский      | [vep.train.ud_20190216](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/vep.train.ud?raw=true) | Материалы [сайта «Открытый корпус вепсского и карельского языков»](http://dictorpus.krc.karelia.ru/ru)<sup id="fn1"><a href="#2-вепсский-и-карельский-языки">2</a></sup>|
 
 ## Данные с морфемной сегментацией
 * Описание схемы разметки: [словоформа][табуляция][пары морфема_тег, разделенные символом «пробел»]
@@ -47,6 +48,14 @@ lang: ru
     Archived in Hamburger Zentrum für Sprachkorpora http://hdl.handle.net/11022/0000-0007-CAE5-3.
     In: Wagner-Nagy, Beáta; Arkhipov, Alexandre; Ferger, Anne; Jettka, Daniel; Lehmberg, Timm (eds.). 2018.
     The INEL corpora of indigenous Northern Eurasian languages.
+
+### 2. Вепсский и карельский языки
+
+    Зайцева Н.Г., Крижановский А.А., Крижановская Н.Б., Пеллинен Н.А., Родионова А.П.
+    Открытый корпус вепсского и карельского языков (ВепКар):
+    предварительный отбор материалов и словарная часть системы //
+    Труды международной конференции «Корпусная лингвистика ‒ 2017». ‒
+    СПб., 2017. С. 172-177.
 
 ## Лицензия
 Данные, за исключением специально отмеченных, распространяются по лицензии [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
