@@ -74,4 +74,6 @@ lang: ru
     СПб., 2017. С. 172-177.
 
 ## Лицензия
-Данные, за исключением специально отмеченных, распространяются по лицензии [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+Данные селькупского языка распространяются по лицензии [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+Данные вепсского и карельского языков распространяются по лицензии [Attribution 4.0 International (CC BY 4.0) ](https://creativecommons.org/licenses/by/4.0//legalcode)
