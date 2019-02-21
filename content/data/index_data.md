@@ -54,6 +54,9 @@ lang: ru
 | селькупский      | [sel.test.ud](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/sel.test.ud?raw=true) | Морфоанализ|
 | селькупский      | [sel.test.morph](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/sel.test.morph?raw=true) | Морфемная сегментация|
 | селькупский      | [sel.test.syn](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/sel.test.syn?raw=true) | Синтез|
+| вепсский      | [vep.test.ud](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/vep.test.ud?raw=true) | Морфоанализ|
+| вепсский      | [vep.test.morph](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/vep.test.morph?raw=true) | Морфемная сегментация|
+| вепсский      | [vep.test.syn](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/vep.test.syn?raw=true) | Синтез|
 
 
 ## Ссылки на источники
