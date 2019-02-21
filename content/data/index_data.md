@@ -44,6 +44,14 @@ lang: ru
 [Список глосс (эвенкийский)](https://raw.githubusercontent.com/lowresource-lang-eval/morphology_scripts/master/resources/glosses_evenki.tsv)
 
 
+## Тестовые данные
+| Язык        | Ссылка на массив           | Описание  |
+|-------|--------|---------|
+| эвенкийский      | [evn.test.ud](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evn.test.ud?raw=true) | Морфоанализ|
+| эвенкийский      | [evn.test.morph](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evn.test.morph?raw=true) | Морфемная сегментация|
+| эвенкийский      | [evn.test.syn](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/evn.test.syn?raw=true) | Синтез|
+
+
 ## Ссылки на источники
 ### 1. Селькупский язык
 
