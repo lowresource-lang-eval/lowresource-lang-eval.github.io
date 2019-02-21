@@ -63,9 +63,9 @@ lang: ru
 | карельский (ливвиковское наречие)      | [olo.test.ud](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/olo.test.ud?raw=true) | Морфоанализ|
 | карельский (ливвиковское наречие)      | [olo.test.morph](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/olo.test.morph?raw=true) | Морфемная сегментация|
 | карельский (ливвиковское наречие)      | [olo.test.syn](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/olo.test.syn?raw=true) | Синтез|
-| карельский (людиковское наречие)      | [krl.test.ud](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/krl.test.ud?raw=true) | Морфоанализ|
-| карельский (людиковское наречие)      | [krl.test.morph](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/krl.test.morph?raw=true) | Морфемная сегментация|
-| карельский (людиковское наречие)      | [krl.test.syn](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/krl.test.syn?raw=true) | Синтез|
+| карельский (людиковское наречие)      | [lud.test.ud](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/lud.test.ud?raw=true) | Морфоанализ|
+| карельский (людиковское наречие)      | [lud.test.morph](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/lud.test.morph?raw=true) | Морфемная сегментация|
+| карельский (людиковское наречие)      | [lud.test.syn](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/data/lud.test.syn?raw=true) | Синтез|
 
 ## Ссылки на источники
 ### 1. Селькупский язык
