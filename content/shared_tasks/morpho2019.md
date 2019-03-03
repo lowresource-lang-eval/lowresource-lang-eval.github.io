@@ -134,6 +134,9 @@ lang: ru
 * доля полностью корректно сгенерированных словоформ
 * усредненное расстояние Левенштейна между словоформой, предложенной участником, и правильным ответом
 
-## Скрипты оценки: TBD
+## Скрипты оценки:
+### Синтез: [evaluation_syn.py](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/evaluation/evaluation_syn.py) (требуется установка пакета python-Levenshtein — pip install python-Levenshtein)
+
+
 ## Участники
 ## Результаты
