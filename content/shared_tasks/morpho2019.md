@@ -135,8 +135,12 @@ lang: ru
 * усредненное расстояние Левенштейна между словоформой, предложенной участником, и правильным ответом
 
 ## Скрипты оценки:
-### 1. Морфологический анализ: [evaluation_ud.py](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/evaluation/evaluation_ud.py)
-### 3. Синтез: [evaluation_syn.py](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/evaluation/evaluation_syn.py) (требуется установка пакета python-Levenshtein — pip install python-Levenshtein)
+### 1. Морфологический анализ: 
+
+[evaluation_ud.py](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/evaluation/evaluation_ud.py)
+### 3. Синтез: 
+
+[evaluation_syn.py](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/evaluation/evaluation_syn.py) (требуется установка пакета python-Levenshtein — pip install python-Levenshtein)
 
 
 ## Участники
