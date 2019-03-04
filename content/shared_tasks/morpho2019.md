@@ -116,7 +116,7 @@ lang: ru
 
 #### Входные данные
 На каждой строке файла указаны через знак табуляции: лемма, UPOS (часть речи, см. пример в [размеченных данных для морфоанализа](../data/index_data.html)), FEATS (морфологические свойства, см. пример в [размеченных данных для морфоанализа](../data/index_data.html)). Первые три символа в имени файла — [код языка по Ethnologue](https://www.ethnologue.com/browse/codes).Порядок словоформ в файле случаен.
-Пример: файл evn.test.synt
+Пример: файл evn.test.syn
 
     baldi	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
     ďu	NOUN	Case=Nom|Clusivity=Ex|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=1
