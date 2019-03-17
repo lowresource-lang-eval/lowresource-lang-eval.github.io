@@ -13,9 +13,9 @@ lang: ru
 * <span style="color: red">12 января  — первое информационное письмо</span>
 * <span style="color: red">24 января — предоставление обучающей выборки</span>
 * <span style="color: red">21 февраля — предоставление тестовой выборки</span>
-* 6 марта — подача результатов участниками
-* 12 марта — публикация результатов
-* 17 марта  — сбор статей для публикации на сайте конференции «Диалог»
+* <span style="color: red">6 марта — подача результатов участниками</span>
+* <span style="color: red">12 марта — публикация результатов</span>
+* <span style="color: red">17 марта  — сбор статей для публикации на сайте конференции «Диалог»</span>
 * июнь — подведение итогов на конференции «Диалог»
 
 ## Описание заданий
@@ -107,7 +107,6 @@ lang: ru
 #### Метрики
 Для каждого файла, сданного участником, делается подсчет следующих метрик:
 * точность, полнота, F-мера установки границ морфем.
-Формула расчета:
 * доля словоформ, корректно разделенных на морфемы
 * для корректно разделенных словоформ: точность, полнота, F-мера приписывания тегов морфемам
 
@@ -138,6 +137,9 @@ lang: ru
 ### 1. Морфологический анализ: 
 
 [evaluation_ud.py](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/evaluation/evaluation_ud.py)
+### 2. Морфемная сегментация: 
+
+[evaluation_morph.py](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/evaluation/evaluation_morph.py)
 ### 3. Синтез: 
 
 [evaluation_syn.py](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/evaluation/evaluation_syn.py) (требуется установка пакета python-Levenshtein — pip install python-Levenshtein)
