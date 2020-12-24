@@ -16,7 +16,7 @@ lang: ru
 * <span style="color: red">6 марта — подача результатов участниками</span>
 * <span style="color: red">12 марта — публикация результатов</span>
 * <span style="color: red">17 марта  — сбор статей для публикации на сайте конференции «Диалог»</span>
-* июнь — подведение итогов на конференции «Диалог»
+* <span style="color: red">июнь — подведение итогов на конференции «Диалог»</span>
 
 ## Описание заданий
 ### Общие замечания
@@ -145,5 +145,8 @@ lang: ru
 [evaluation_syn.py](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/evaluation/evaluation_syn.py) (требуется установка пакета python-Levenshtein — pip install python-Levenshtein)
 
 
-## Участники
-## Результаты
+## Участники:
+[Google-группа участников]({{ site.contact_group }})
+
+## Результаты:
+[Статья организаторов](http://www.dialog-21.ru/media/5196/_-dialog2019volplus.pdf#page=54)

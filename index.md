@@ -11,6 +11,4 @@ lang: ru
 
 
 ---
-<small>Вдохновлено [PlagEvalRus](https://plagevalrus.github.io)</small>
-
 
