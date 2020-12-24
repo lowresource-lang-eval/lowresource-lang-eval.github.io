@@ -11,4 +11,5 @@ lang: ru
 
 
 ---
+<small>Использован шаблон из [PlagEvalRus](https://plagevalrus.github.io)</small>	
 

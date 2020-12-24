@@ -145,8 +145,8 @@ lang: ru
 [evaluation_syn.py](https://github.com/lowresource-lang-eval/morphology_scripts/blob/master/evaluation/evaluation_syn.py) (требуется установка пакета python-Levenshtein — pip install python-Levenshtein)
 
 
-## Участники:
+## Участники
 [Google-группа участников]({{ site.contact_group }})
 
-## Результаты:
+## Результаты
 [Статья организаторов](http://www.dialog-21.ru/media/5196/_-dialog2019volplus.pdf#page=54)
