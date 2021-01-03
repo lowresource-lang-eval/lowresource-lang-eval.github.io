@@ -2,7 +2,7 @@ theme: jekyll-theme-hacker
 title:
   en: Low-Resource Language Processing Evaluation
   ru: Оценка методов обработки малоресурсных языков
-contact_group:  https://groups.google.com/forum/#!forum/lowresource-eval-2019
+contact_group:  https://groups.google.com/g/lowresource-eval-2021
 index:
   en: enindex.html
   ru: index.html
