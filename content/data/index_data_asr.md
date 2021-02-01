@@ -9,7 +9,7 @@ lang: ru
 
 
 ## Данные
-* Описание схемы разметки: [TODO](https://github.com/lowresource-lang-eval/)
+* [Часть один](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/train1.tsv)
 
 
 ## Условные обозначения
@@ -19,7 +19,7 @@ TODO
 Будут опубликованы после окончания соревнования
 
 ## Ссылки на источники
-TODO
+[Проект Lingvodoc](http://lingvodoc.ispras.ru/)
 
 ## Лицензия
 Для распространения данных просим связаться с организаторами
