@@ -8,8 +8,6 @@ lang: ru
 * Наборы данных можно увидеть на странице [Данные](content/data/index_data.html).
 
 
-
-
 ---
 <small>Использован шаблон из [PlagEvalRus](https://plagevalrus.github.io)</small>	
 
