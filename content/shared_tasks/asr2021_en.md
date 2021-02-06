@@ -60,7 +60,7 @@ Every file is evaluated with:
 * character error rate
 
 
-###3. Automatic detection of Russian stimuli
+### 3. Automatic detection of Russian stimuli
 See motivation in 2
 
 ## Evaluation scripts:
