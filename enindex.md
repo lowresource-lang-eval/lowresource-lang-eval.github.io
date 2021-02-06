@@ -5,8 +5,8 @@ ref: index
 lang: en
 ---
 * [Русская версия](./index)
-* You can find the current shared tasks at the [Shared tasks](content/shared_tasks/index_shared_tasks_en.html) page 
-* Datasets are available at the [Datasets](content/data/index_data.html) page.
+* You can find the current shared tasks at the [Shared tasks](content_en/shared_tasks/index_shared_tasks.html) page 
+* Datasets are available at the [Datasets](content_en/data/index_data.html) page.
 
 
 ---
