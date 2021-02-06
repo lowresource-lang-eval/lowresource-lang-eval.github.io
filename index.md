@@ -4,7 +4,7 @@ title: Оценка методов обработки малоресурсных
 ref: index
 lang: ru
 ---
-* English version (enindex)
+* [English version](enindex)
 * На странице [Соревнования](content/shared_tasks/index_shared_tasks.html) можно узнать о соревнованиях по сравнению методов.
 * Наборы данных можно увидеть на странице [Данные](content/data/index_data.html).
 
