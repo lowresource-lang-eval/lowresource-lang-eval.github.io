@@ -2,8 +2,7 @@
 layout: page
 title: Оценка методов обработки малоресурсных языков
 ref: index
-permalink: /about-us/
-permalink_ru: /about-us-ru/
+lang: ru
 ---
 * На странице [Соревнования](content/shared_tasks/index_shared_tasks.html) можно узнать о соревнованиях по сравнению методов.
 * Наборы данных можно увидеть на странице [Данные](content/data/index_data.html).
