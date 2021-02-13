@@ -25,7 +25,9 @@ Every participant can make up to 3 submissions.
 
 ### Input data
 
-Files having the following structure:
+Datasets are available at the [Datasets](content/data/index_data_asr.html) page.
+
+There are files having the following structure:
 * recording id
 * text transcription / spelling
 * language code according to [Ethnologue](https://www.ethnologue.com/browse/codes) with slight modifications used in [Lingvodoc](http://lingvodoc.ispras.ru):
