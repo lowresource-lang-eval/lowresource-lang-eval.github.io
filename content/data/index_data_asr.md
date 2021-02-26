@@ -12,8 +12,10 @@ lang: ru
 * [Тренировочные данные-1: разметка](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/train1.tsv)
 * [Тренировочные данные-1: звук](https://drive.google.com/drive/folders/1HJe_BOxUmc8g_2jlhoHlt6GG4OkUqCm0?usp=sharing)
 
+
 * [Тренировочные данные-2: разметка](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/train2.tsv)
 * [Тренировочные данные-2: звук](https://drive.google.com/file/d/12VlrascWKbIWTjYTxJOD9RtXPsKs58oh/view?usp=sharing)
+
 
 * [Тренировочные данные: число спикеров: разметка](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/train1speakers.tsv)
 * [Тренировочные данные: число спикеров: звук (то же, что в "тренировочные данные-1")](https://drive.google.com/drive/folders/1HJe_BOxUmc8g_2jlhoHlt6GG4OkUqCm0?usp=sharing)
