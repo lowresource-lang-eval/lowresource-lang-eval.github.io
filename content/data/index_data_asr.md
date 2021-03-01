@@ -9,6 +9,7 @@ lang: ru
 
 
 ## Данные
+### Транскрибирование в МФА
 * [Тренировочные данные-1: разметка](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/train1.tsv)
 * [Тренировочные данные-1: звук](https://drive.google.com/drive/folders/1HJe_BOxUmc8g_2jlhoHlt6GG4OkUqCm0?usp=sharing)
 
@@ -16,9 +17,17 @@ lang: ru
 * [Тренировочные данные-2: разметка](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/train2.tsv)
 * [Тренировочные данные-2: звук](https://drive.google.com/file/d/12VlrascWKbIWTjYTxJOD9RtXPsKs58oh/view?usp=sharing)
 
+### Запись в графике
 
-* [Тренировочные данные: число спикеров: разметка](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/train1speakers.tsv)
-* [Тренировочные данные: число спикеров: звук (то же, что в "тренировочные данные-1")](https://drive.google.com/drive/folders/1HJe_BOxUmc8g_2jlhoHlt6GG4OkUqCm0?usp=sharing)
+* [Тренировочные данные: разметка](https://raw.githubusercontent.com/lowresource-lang-eval/asr_evaluation_scripts/main/ortho_train.tsv)
+* [Тренировочные данные: звук](https://drive.google.com/file/d/168v_pSnm2_saB_7sqQI9xK8JBcTXCnRc/view)
+
+
+
+###Определение числа говорящих
+
+* [Тренировочные данные: число говорящих: разметка](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/train1speakers.tsv)
+* [Тренировочные данные: число говорящих: звук (то же, что в "тренировочные данные-1")](https://drive.google.com/drive/folders/1HJe_BOxUmc8g_2jlhoHlt6GG4OkUqCm0?usp=sharing)
 
 
 ## Ссылки на источники
