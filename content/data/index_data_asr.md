@@ -32,7 +32,7 @@ lang: ru
 ### Тестовые данные
 
 * [Тестовые данные: текстовый файл](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/test_release_3mar2020.tsv)
-* [Тестовые данные: звук](https://drive.google.com/drive/folders/1DZoIe2wZKuZCKOhmTt1X2F-vANWZnt1d?usp=sharing)
+* [Тестовые данные: звук (два архива)](https://drive.google.com/drive/folders/1DZoIe2wZKuZCKOhmTt1X2F-vANWZnt1d?usp=sharing)
 
 * [Тестовые данные по задаче орфографии: текстовый файл](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/ortho_test_release_3mar2020.tsv)
 * [Тестовые данные по задаче орфографии: звук](https://drive.google.com/file/d/1-7wACJG7s908GAB9SkDtTPKzZMvA1oLC/view?usp=sharing)
