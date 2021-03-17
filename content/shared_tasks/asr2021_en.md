@@ -65,9 +65,11 @@ Every file is evaluated with:
 ### 3. Automatic detection of Russian stimuli
 See motivation in 2
 
-## Evaluation scripts:
-TBD
-
+## Evaluation scripts
+[Codalab link](https://competitions.codalab.org/competitions/30008)
+[Sample submission](https://drive.google.com/file/d/1Zgp9CK-lFLNy-AztQJjZ-kwTxmb6s6LC/view?usp=sharing)
+[Evaluation script] https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/evaluate.py
+[Evaluation script description](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/README.md)
 
 ## Participants
 [Google-group]({{ site.contact_group }})
