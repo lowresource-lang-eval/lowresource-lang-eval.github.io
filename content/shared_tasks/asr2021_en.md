@@ -67,8 +67,11 @@ See motivation in 2
 
 ## Evaluation scripts
 [Codalab link](https://competitions.codalab.org/competitions/30008)
+
 [Sample submission](https://drive.google.com/file/d/1Zgp9CK-lFLNy-AztQJjZ-kwTxmb6s6LC/view?usp=sharing)
-[Evaluation script] https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/evaluate.py
+
+[Evaluation script] (https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/evaluate.py)
+
 [Evaluation script description](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/README.md)
 
 ## Participants
