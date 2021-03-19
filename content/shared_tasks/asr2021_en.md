@@ -10,11 +10,11 @@ lang: ru
 
 ## Timeline
 
-* <span style="color: red">01.02 — training data release</span>
-* <span style="color: white">21.02 — test data release</span>
-* <span style="color: white">06.03 — submissions due</span>
-* <span style="color: white">12.03 — results published</span>
-* <span style="color: white">20.03 — papers due</span>
+* <span style="color: red">25.02 — training data release</span>
+* <span style="color: white">10.03 — test data release</span>
+* <span style="color: white">20.03 — submissions due</span>
+* <span style="color: white">23.03 — results published</span>
+* <span style="color: white">30.03 — papers due</span>
 
 ## Task description
 ### General remarks
