@@ -15,7 +15,9 @@ lang: ru
 
 
 * [Тренировочные данные-2: разметка](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/train2.tsv)
-* [Тренировочные данные-2: звук](https://drive.google.com/file/d/12VlrascWKbIWTjYTxJOD9RtXPsKs58oh/view?usp=sharing)
+* [Тренировочные данные-2: звук]
+(https://drive.google.com/drive/folders/11pRTYHu09f_zegjfqq5aQpRMtapOR5yj?usp=sharing)
+[в виде архива](https://drive.google.com/drive/folders/1p4rpJcQiaOudUE093dhL5UOlP3AWGrvs?usp=sharing)
 
 ### Запись в графике
 
