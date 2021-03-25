@@ -24,7 +24,6 @@ lang: ru
 * [Тренировочные данные: звук](https://drive.google.com/file/d/168v_pSnm2_saB_7sqQI9xK8JBcTXCnRc/view)
 
 
-
 ### Определение числа говорящих
 
 * [Тренировочные данные: число говорящих: разметка](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/train1speakers.tsv)
@@ -37,6 +36,11 @@ lang: ru
 
 * [Тестовые данные по задаче орфографии: текстовый файл](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/ortho_test_release_3mar2020.tsv)
 * [Тестовые данные по задаче орфографии: звук](https://drive.google.com/file/d/1-7wACJG7s908GAB9SkDtTPKzZMvA1oLC/view?usp=sharing)
+
+### Тестовые данные: ответы
+* [Тестовые данные: транскрипция и классификация](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/test.tsv)
+* [Тестовые данные: орфография](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/ortho_test.tsv)
+* [Тестовые данные: число говорящих](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/speakers_test.tsv)
 
 
 ## Ссылки на источники

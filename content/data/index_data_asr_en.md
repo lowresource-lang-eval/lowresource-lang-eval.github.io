@@ -37,6 +37,10 @@ lang: ru
 * [Test data for the spelling task: text file](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/ortho_test_release_3mar2020.tsv)
 * [Test data for the spelling task: sound](https://drive.google.com/file/d/1-7wACJG7s908GAB9SkDtTPKzZMvA1oLC/view?usp=sharing)
 
+### Test data: answers
+* [Test data: classification and IPA transcription](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/test.tsv)
+* [Test data: spelling](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/ortho_test.tsv)
+* [Test data: number of speakers](https://github.com/lowresource-lang-eval/asr_evaluation_scripts/blob/main/speakers_test.tsv)
 
 ## Links to sources
 [Lingvodoc](http://lingvodoc.ispras.ru/)
